@@ -1,0 +1,9 @@
+company,position,city,state,start_date,end_date
+TechCorp,Software Engineer Intern,New York,NY,2020-01-01T00:00:00Z,2020-08-31T23:59:59Z
+DataFlow Inc,Junior Data Analyst,San Francisco,CA,2020-09-01T00:00:00Z,2021-12-31T23:59:59Z
+CloudTech,Software Engineer,Austin,TX,2022-01-01T00:00:00Z,2022-11-30T23:59:59Z
+StartupXYZ,Senior Software Engineer,Seattle,WA,2022-12-01T00:00:00Z,2023-10-31T23:59:59Z
+HealthTech,Lead Developer,Boston,MA,2023-11-01T00:00:00Z,2024-06-30T23:59:59Z
+TransportationCo,Engineering Manager,Denver,CO,2024-07-01T00:00:00Z,2024-12-31T23:59:59Z
+WindowCleaning,CTO,Chicago,IL,2025-01-01T00:00:00Z,2025-07-31T23:59:59Z
+InnovationLabs,VP of Engineering,Phoenix,AZ,2025-08-01T00:00:00Z,
